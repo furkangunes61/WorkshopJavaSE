@@ -4,16 +4,16 @@ public class _05_WrapperType {
     public static void main(String[] args) {
         // wrapper
         // OOP için çok daha uygundur.
-        // null değer verebilirsiniz. => Integer data=null
+        // null değer verebilirsiniz. => Integer data = null
         // Heap memory
-        // Tamsayılar: Byte<Short<Integer<Long
-        // Virgüllü  : Float<Double
+        // Tamsayılar: Byte < Short < Integer < Long
+        // Virgüllü  : Float < Double
         // Boolean: true/false
         // Character: '*'
 
-        // Tamsayılar: Byte<Short<Integer<Long
+        // Tamsayılar: Byte < Short < Integer < Long
         // byte (8-bit signed integer)
-        Byte b = 127; // -128<byte<127
+        Byte b = 127; // -128 < byte < 127
         System.out.println("Byte: " + b);
 
         // short (16-bit signed integer)

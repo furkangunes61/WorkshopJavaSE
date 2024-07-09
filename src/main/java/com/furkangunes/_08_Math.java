@@ -22,7 +22,7 @@ public class _08_Math {
 
         System.out.println("////////////////////////////");
         Random rand = new Random();
-        int rast= rand.nextInt(10)+1;
+        int rast = rand.nextInt(10)+1;
         System.out.println(rast);
     }
 }

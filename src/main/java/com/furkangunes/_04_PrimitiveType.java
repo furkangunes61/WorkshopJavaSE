@@ -3,16 +3,16 @@ package com.furkangunes;
 public class _04_PrimitiveType {
     public static void main(String[] args) {
         // primitive
-        // null değer veremezsiniz. => int data=null;
+        // null değer veremezsiniz. => int data = null;
         // Stack memory
-        // Tamsayılar: byte<short<int<long
-        // Virgüllü  : float<double
+        // Tamsayılar: byte < short < int < long
+        // Virgüllü  : float < double
         // boolean: true/false
         // char: '*'
 
-        // Tamsayılar: byte<short<int<long
+        // Tamsayılar: byte < short < int < long
         // byte (8-bit signed integer)
-        byte b = 127; // -128<byte<127
+        byte b = 127; // -128 < byte < 127
         System.out.println("byte: " + b);
 
         // short (16-bit signed integer)
@@ -27,7 +27,7 @@ public class _04_PrimitiveType {
         long l = 9223372036854775807L;
         System.out.println("long: " + l);
 
-        // Virgüllü  : float<double
+        // Virgüllü  : float < double
         // float (32-bit floating-point number)
         float f = 3.14f;
         System.out.println("float: " + f);
