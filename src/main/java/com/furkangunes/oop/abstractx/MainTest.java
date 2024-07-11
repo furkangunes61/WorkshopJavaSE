@@ -3,7 +3,7 @@ package com.furkangunes.oop.abstractx;
 public class MainTest {
     public static void main(String[] args) {
 
-        Person person = new Student();//polymorphism
+        Person person = new Student(); //polymorphism
         person.setName("person adı-1");
         person.setSurname("person soyadı-1");
         System.out.println(person);
