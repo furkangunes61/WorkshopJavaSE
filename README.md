@@ -1,1 +1,1 @@
-Techcareer.net tarafından düzenlenen "Java SE Workshop" etkinliğinde yazdığımız kodlar.
+Techcareer.net tarafından düzenlenen "Java SE Workshop" etkinliğinde yazdığım kodlar.
